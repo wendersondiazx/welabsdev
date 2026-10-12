@@ -42,7 +42,7 @@ I build projects to learn how the underlying systems work. If something looks in
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=welabsdev&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E&langs_count=8" alt="Most Used Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendersondiazx&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E&langs_count=8" alt="Most Used Languages" />
 
 </div>
 

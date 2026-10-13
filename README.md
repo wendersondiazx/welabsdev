@@ -7,6 +7,7 @@
 Brazilian developer who enjoys understanding how things work close to the hardware — and building them from scratch.
 
 Founder of **[The Archlevel Foundation](https://github.com/thearchlevel)**.
+Creator of **[forkut.net](https://forkut.net) and [welabsdev developer community](https://welabsdev.site)**.
 
 [LinkedIn](https://www.linkedin.com/in/wendersondias) · [GitHub](https://github.com/welabsdev) · [Website](https://welabsdev.site) · [Email](mailto:contato@welabsdev.site)
 
